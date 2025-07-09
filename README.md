@@ -1,0 +1,2 @@
+# TacviewConnector
+这是一个基于QT开发的Tacview实时遥测程序，实现了创建TCPServer，等待Tacview客户端建立连接，随后同步或异步的向Tacview发送实体、传感器、航路、释放干扰弹等功能
